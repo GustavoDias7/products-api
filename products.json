@@ -2,7 +2,7 @@
   {
     "id": 1,
     "product_id": "f84c1fb0-8741-4ded-bd4a-e37aad2070c4",
-    "img": "./images/claudio-schwarz-hdIxmqYyinw-unsplash.jpg",
+    "img": "https://raw.githubusercontent.com/GustavoDias7/products-api/master/images/claudio-schwarz-hdIxmqYyinw-unsplash.jpg",
     "name": "Cadeira",
     "price": 9990,
     "type": "mobília",
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "product_id": "b4112962-0917-4e42-91aa-fe10c1920df4",
-    "img": "./images/kiran-ck-iuEfQe4ozpo-unsplash.jpg",
+    "img": "https://raw.githubusercontent.com/GustavoDias7/products-api/master/images/kiran-ck-iuEfQe4ozpo-unsplash.jpg",
     "name": "Relógio",
     "price": 3590,
     "type": "acessório",
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "product_id": "65b333d6-56f7-4dd7-9923-8ea46e0879f7",
-    "img": "./images/estee-janssens-23lU2ct_cNs-unsplash.jpg",
+    "img": "https://raw.githubusercontent.com/GustavoDias7/products-api/master/images/estee-janssens-23lU2ct_cNs-unsplash.jpg",
     "name": "Agenda",
     "price": 4590,
     "type": "utilidade",
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "product_id": "a911941b-f92d-4e9a-955a-2c4f9efafc87",
-    "img": "./images/kiran-ck-6rXpQzfCYlw-unsplash.jpg",
+    "img": "https://raw.githubusercontent.com/GustavoDias7/products-api/master/images/kiran-ck-6rXpQzfCYlw-unsplash.jpg",
     "name": "Caneta",
     "price": 1290,
     "type": "utilidade",
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "product_id": "0b923fe3-f9c6-4fed-920f-e981256438be",
-    "img": "./images/mediamodifier-zYs06jGwx7Y-unsplash.jpg",
+    "img": "https://raw.githubusercontent.com/GustavoDias7/products-api/master/images/mediamodifier-zYs06jGwx7Y-unsplash.jpg",
     "name": "Caneca",
     "price": 2090,
     "type": "utilidade",
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "product_id": "28b7030f-b9d8-4b21-aa32-a64974761a9b",
-    "img": "./images/sarah-dorweiler-ALtNa-uKy3M-unsplash.jpg",
+    "img": "https://raw.githubusercontent.com/GustavoDias7/products-api/master/images/sarah-dorweiler-ALtNa-uKy3M-unsplash.jpg",
     "name": "Bonsai",
     "price": 8090,
     "type": "decoração",
