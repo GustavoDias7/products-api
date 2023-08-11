@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "product_id": "f84c1fb0-8741-4ded-bd4a-e37aad2070c4",
+    "img": "./images/claudio-schwarz-hdIxmqYyinw-unsplash.jpg",
+    "name": "Cadeira",
+    "price": 9990,
+    "type": "mobília",
+    "quantity": 6,
+    "description": "Este item proporciona alto conforto e qualidade! Conta com uma estrutura consistente excepcional que se adapta a qualquer ambiente, desde uma sala de jantar, cozinha a escritórios",
+    "installment": 6,
+    "color": "preto",
+    "ratings": 4.7
+  },
+  {
+    "id": 2,
+    "product_id": "b4112962-0917-4e42-91aa-fe10c1920df4",
+    "img": "./images/kiran-ck-iuEfQe4ozpo-unsplash.jpg",
+    "name": "Relógio",
+    "price": 3590,
+    "type": "acessório",
+    "quantity": 12,
+    "description": "Além de funcional o relógio complementa a decoração e dá aquele toque que falta no ambiente. Aposte em tons neutros para compor com diversos estilos de decoração.",
+    "installment": 6,
+    "color": "branco",
+    "ratings": 4.8
+  },
+  {
+    "id": 3,
+    "product_id": "65b333d6-56f7-4dd7-9923-8ea46e0879f7",
+    "img": "./images/estee-janssens-23lU2ct_cNs-unsplash.jpg",
+    "name": "Agenda",
+    "price": 4590,
+    "type": "utilidade",
+    "quantity": 4,
+    "description": "Se você gosta de ter toda a elegância na hora de fazer as anotações do escritório ou na escola, esta agenda é o item perfeito!",
+    "installment": 6,
+    "color": "marrom",
+    "ratings": 5
+  },
+  {
+    "id": 4,
+    "product_id": "a911941b-f92d-4e9a-955a-2c4f9efafc87",
+    "img": "./images/kiran-ck-6rXpQzfCYlw-unsplash.jpg",
+    "name": "Caneta",
+    "price": 1290,
+    "type": "utilidade",
+    "quantity": 22,
+    "description": "Escreva com uma caneta de qualidade e com design diferenciado. Esta caneta esferográfica é para quem tem estilo e bom gosto.",
+    "installment": 6,
+    "color": "preto",
+    "ratings": 5
+  },
+  {
+    "id": 5,
+    "product_id": "0b923fe3-f9c6-4fed-920f-e981256438be",
+    "img": "./images/mediamodifier-zYs06jGwx7Y-unsplash.jpg",
+    "name": "Caneca",
+    "price": 2090,
+    "type": "utilidade",
+    "quantity": 5,
+    "description": "Canecas de porcelana branca é ideal para ter em sua casa, ela é versátil e fica elegante para uma hora do chá, um café da tarde, um chocolate quente.",
+    "installment": 6,
+    "color": "branco",
+    "ratings": 4.8
+  },
+  {
+    "id": 6,
+    "product_id": "28b7030f-b9d8-4b21-aa32-a64974761a9b",
+    "img": "./images/sarah-dorweiler-ALtNa-uKy3M-unsplash.jpg",
+    "name": "Bonsai",
+    "price": 8090,
+    "type": "decoração",
+    "quantity": 16,
+    "description": "A árvore de bonsai atrai dinheiro e boa sorte, e, se a mini árvore for recebida de presente por alguém, ela exprime um gesto de respeito e desejo de prosperidade.",
+    "installment": 6,
+    "color": "branco",
+    "ratings": 5
+  }
+]
